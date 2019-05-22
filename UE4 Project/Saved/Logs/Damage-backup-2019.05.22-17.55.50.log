@@ -1,0 +1,1675 @@
+﻿Log file open, 05/20/19 19:39:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Damage
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.693184
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.155s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.20-09.40.00:530][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.20-09.40.00:530][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.20-09.40.00:553][  0]LogHAL: Display: Platform has ~ 16 GB [17046654976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.20-09.40.00:553][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.20-09.40.00:553][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.20-09.40.00:559][  0]LogInit: Computer: DESKTOP-8FCCE68
+[2019.05.20-09.40.00:559][  0]LogInit: User: Thoma
+[2019.05.20-09.40.00:559][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.20-09.40.00:559][  0]LogInit: High frequency timer resolution =2.742192 MHz
+[2019.05.20-09.40.00:559][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.20-09.40.00:559][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.20-09.40.00:559][  0]LogMemory: Process Physical Memory: 100.54 MB used, 100.54 MB peak
+[2019.05.20-09.40.00:559][  0]LogMemory: Process Virtual Memory: 89.34 MB used, 89.34 MB peak
+[2019.05.20-09.40.00:559][  0]LogMemory: Physical Memory: 5884.88 MB used,  10372.08 MB free, 16256.96 MB total
+[2019.05.20-09.40.00:559][  0]LogMemory: Virtual Memory: 4644.46 MB used,  10372.08 MB free, 134217728.00 MB total
+[2019.05.20-09.40.01:036][  0]LogInit: Using OS detected language (en-US).
+[2019.05.20-09.40.01:036][  0]LogInit: Using OS detected locale (en-AU).
+[2019.05.20-09.40.01:037][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.20-09.40.01:475][  0]LogStreaming: Display: Took  0.438s to InitEngineTextLocalization.
+[2019.05.20-09.40.01:476][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.20-09.40.01:590][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.20-09.40.01:590][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.20-09.40.03:595][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.20-09.40.03:595][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.20-09.40.03:652][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.05.20-09.40.03:652][  0]LogD3D11RHI:       6061/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.20-09.40.03:662][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.20-09.40.03:662][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.20-09.40.03:664][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.20-09.40.03:664][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.20-09.40.03:664][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.20-09.40.03:672][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.20-09.40.03:672][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.20-09.40.03:672][  0]LogWindows: EnumDisplayDevices:
+[2019.05.20-09.40.03:672][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.05.20-09.40.03:672][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.05.20-09.40.03:673][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.05.20-09.40.03:673][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.05.20-09.40.03:673][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.20-09.40.03:673][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.20-09.40.03:674][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.20-09.40.03:674][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.20-09.40.03:674][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.05.20-09.40.03:674][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.05.20-09.40.03:674][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.05.20-09.40.03:674][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2019.05.20-09.40.03:706][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.20-09.40.03:724][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.20-09.40.03:768][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Intermediate/Shaders/WorkingDirectory/10668/).
+[2019.05.20-09.40.03:768][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Thoma/AppData/Local/Temp/UnrealShaderWorkingDir/E3B6D5B046E37D23B0C8B8B3C59F3003/'.
+[2019.05.20-09.40.04:095][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.20-09.40.04:112][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.20-09.40.04:127][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.20-09.40.04:141][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.20-09.40.04:160][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.20-09.40.04:176][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.20-09.40.04:191][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.20-09.40.04:206][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.20-09.40.04:214][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-09.40.04:306][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.20-09.40.04:377][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.20-09.40.04:377][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.20-09.40.04:402][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.20-09.40.04:402][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.20-09.40.04:418][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.20-09.40.04:433][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.20-09.40.04:447][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.20-09.40.04:470][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.20-09.40.04:482][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.20-09.40.04:482][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.20-09.40.04:607][  0]LogXGEController: Cleaning working directory: C:/Users/Thoma/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.20-09.40.04:608][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.20-09.40.04:608][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.20-09.40.04:608][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.20-09.40.06:505][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.20-09.40.06:740][  0]LogDerivedDataCache: Loaded boot cache 0.23s 71MB C:/Users/Thoma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.20-09.40.06:741][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thoma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.20-09.40.06:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.20-09.40.06:741][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.20-09.40.06:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.20-09.40.06:741][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.20-09.40.06:766][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.20-09.40.06:779][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Thoma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.20-09.40.06:779][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.20-09.40.06:779][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.20-09.40.06:799][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.20-09.40.06:804][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.20-09.40.06:820][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.20-09.40.07:116][  0]LogAssetRegistry: FAssetRegistry took 0.0287 seconds to start up
+[2019.05.20-09.40.07:498][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.20-09.40.07:829][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.20-09.40.07:849][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.20-09.40.07:850][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.20-09.40.07:850][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.20-09.40.07:850][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.20-09.40.07:899][  0]LogNetVersion: Damage 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 12787675)
+[2019.05.20-09.40.09:215][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.126874 seconds
+[2019.05.20-09.40.09:222][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.20-09.40.09:222][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.20-09.40.09:222][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.20-09.40.13:543][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.20-09.40.13:559][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.20-09.40.13:869][  0]SourceControl: Source control is disabled
+[2019.05.20-09.40.13:870][  0]SourceControl: Source control is disabled
+[2019.05.20-09.40.13:879][  0]SourceControl: Source control is disabled
+[2019.05.20-09.40.13:883][  0]SourceControl: Source control is disabled
+[2019.05.20-09.40.14:186][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.20-09.40.14:254][  0]LogOcInput: OculusInput pre-init called
+[2019.05.20-09.40.14:374][  0]LogEngine: Initializing Engine...
+[2019.05.20-09.40.14:376][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.20-09.40.14:379][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.20-09.40.14:379][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.20-09.40.14:379][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.20-09.40.14:379][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.20-09.40.14:755][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.20-09.40.14:793][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-09.40.14:807][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.20-09.40.14:876][  0]LogInit: FAudioDevice initialized.
+[2019.05.20-09.40.14:876][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.20-09.40.14:957][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Thoma/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.20-09.40.14:975][  0]LogInit: Texture streaming: Enabled
+[2019.05.20-09.40.15:001][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.20-09.40.15:023][  0]LogInit: Transaction tracking system initialized
+[2019.05.20-09.40.15:077][  0]BlueprintLog: New page: Editor Load
+[2019.05.20-09.40.15:265][  0]LocalizationService: Localization service is disabled
+[2019.05.20-09.40.15:925][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.20-09.40.15:926][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.20-09.40.15:926][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.20-09.40.15:926][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.20-09.40.15:926][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.20-09.40.15:926][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.20-09.40.15:926][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.20-09.40.16:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Content/' took 0.02s
+[2019.05.20-09.40.16:239][  0]SourceControl: Source control is disabled
+[2019.05.20-09.40.16:239][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Content/__MyContent/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.20-09.40.16:240][  0]LightingResults: New page: Lighting Build
+[2019.05.20-09.40.16:247][  0]MapCheck: New page: Map Check
+[2019.05.20-09.40.16:247][  0]LightingResults: New page: Lighting Build
+[2019.05.20-09.40.17:183][  0]LogAIModule: Creating AISystem for world Level_1
+[2019.05.20-09.40.17:214][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.20-09.40.17:243][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.20-09.40.17:325][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.579ms to complete.
+[2019.05.20-09.40.17:325][  0]LogFileHelpers: Loading map 'Level_1' took 1.085
+[2019.05.20-09.40.17:492][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-09.40.17:500][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-09.40.17:507][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-09.40.17:515][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-09.40.17:535][  0]LogCollectionManager: Loaded 0 collections in 0.002183 seconds
+[2019.05.20-09.40.17:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Saved/Collections/' took 0.01s
+[2019.05.20-09.40.17:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Content/Developers/Thoma/Collections/' took 0.01s
+[2019.05.20-09.40.17:591][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Content/Collections/' took 0.01s
+[2019.05.20-09.40.17:591][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.20-09.40.17:603][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2572 classes and 603 folders.
+[2019.05.20-09.40.17:619][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.20-09.40.17:969][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.20-09.40.17:982][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.20-09.40.18:039][  0]LogSlate: Took 0.006356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.20-09.40.18:047][  0]LogSlate: Took 0.005588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.20-09.40.18:057][  0]LogSlate: Took 0.004167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.20-09.40.18:190][  0]LogRenderer: Reallocating scene render targets to support 956x436 Format 10 NumSamples 1 (Frame:1).
+[2019.05.20-09.40.18:325][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.20-09.40.18:325][  0]LogLoad: (Engine Initialization) Total time: 22.43 seconds
+[2019.05.20-09.40.18:325][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.20-09.40.18:367][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.20-09.40.18:426][  0]LogSlate: Took 0.005724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.20-09.40.18:453][  1]LogAssetRegistry: Asset discovery search completed in 11.3595 seconds
+[2019.05.20-09.40.18:454][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.20-09.40.18:454][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2019.05.20-09.40.34:904][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.20-09.40.38:400][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-09.41.14:700][355]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.20-09.41.14:708][355]LogAssetEditorManager: Opening Asset editor for Material /Game/__MyContent/Materials/HardStageDoorway.HardStageDoorway
+[2019.05.20-09.41.14:712][355]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.15:120][355]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.15:136][355]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.15:149][355]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.15:149][355]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.41.15:149][355]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.41.15:149][355]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.41.15:238][355]LogSlate: Took 0.007004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.20-09.41.15:865][384]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.41.15:915][387]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.41.15:930][388]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.41.15:947][389]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.41.16:065][396]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.41.16:113][399]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.41.16:134][400]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.41.16:147][401]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.41.16:264][408]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.41.16:415][417]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.41.16:550][425]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-09.41.16:599][428]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-09.41.16:682][433]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.41.16:815][441]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-09.41.16:867][444]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-09.41.17:066][456]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.17:079][457]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.41.17:426][477]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.05.20-09.41.17:426][477]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.05.20-09.41.17:426][477]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.20-09.41.17:426][477]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-09.41.24:648][905]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.24:663][905]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.24:668][905]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.24:668][905]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.41.24:668][905]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.41.24:668][905]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.41.24:901][918]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.41.24:934][920]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.41.24:949][921]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.41.24:966][922]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.41.25:100][930]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.41.25:116][931]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.41.25:150][933]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.41.25:150][933]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.41.25:300][942]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.41.25:418][949]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.41.25:552][957]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.41.25:615][961]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.41.25:715][967]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-09.41.25:797][972]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-09.41.25:847][975]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.41.26:033][986]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-09.41.26:051][987]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-09.41.26:167][994]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.26:218][997]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.41.26:441][ 10]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.05.20-09.41.26:441][ 10]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.05.20-09.41.26:441][ 10]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.20-09.41.26:441][ 10]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-09.41.42:210][366]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.42:226][366]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.42:226][366]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.41.42:226][366]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.41.42:226][366]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.41.42:229][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.42:465][379]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.41.42:480][380]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.41.42:497][381]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.41.42:512][382]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.41.42:667][391]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.41.42:679][392]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.41.42:696][393]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.41.42:696][393]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.41.42:862][403]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.41.42:945][408]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.41.43:079][416]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.41.43:113][418]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.41.43:248][426]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-09.41.43:331][431]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-09.41.43:364][433]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.41.43:582][446]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-09.41.43:598][447]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-09.41.43:748][456]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.43:764][457]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.41.44:003][471]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.05.20-09.41.44:003][471]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.05.20-09.41.44:003][471]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.20-09.41.44:003][471]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-09.41.45:618][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.45:633][566]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.45:633][566]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.41.45:647][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.45:664][566]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.45:664][566]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.41.45:671][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.45:702][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.45:726][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.45:755][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.45:779][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.45:810][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.45:834][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.45:866][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.45:884][566]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.45:893][566]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.41.45:896][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.45:912][566]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.45:923][566]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.41.45:926][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.45:956][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.45:986][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:017][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:049][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:074][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:106][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:126][566]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.46:126][566]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.41.46:135][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:149][566]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.46:163][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:179][566]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.46:187][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:217][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:241][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:271][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:296][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:327][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:349][566]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.46:352][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:369][566]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.46:384][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:414][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:430][566]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.46:443][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:465][566]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.46:468][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:497][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:520][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:549][566]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:567][566]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.46:622][569]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:650][569]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.46:653][569]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:672][569]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.46:677][569]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.46:705][569]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.46:767][572]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.46:885][579]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.41.46:899][580]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.47:000][586]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.41.47:150][595]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.41.47:184][597]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.41.47:185][597]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.41.47:265][602]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.41.47:384][609]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.41.47:397][610]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.41.47:397][610]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.41.47:465][614]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.41.47:566][620]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.41.47:582][621]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.41.47:598][622]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.41.47:850][637]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.41.47:882][639]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-09.41.48:017][647]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-09.41.48:034][648]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.41.48:132][654]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-09.41.48:301][664]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-09.41.48:401][670]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.48:468][674]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.41.48:805][694]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.05.20-09.41.48:805][694]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.05.20-09.41.48:805][694]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.20-09.41.48:805][694]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-09.41.49:865][757]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.49:880][757]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.49:880][757]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.41.49:894][757]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.49:908][757]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.49:908][757]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.41.49:946][759]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.49:975][759]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.50:007][759]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.50:038][759]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.50:068][759]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.50:100][759]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.50:119][759]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.50:125][759]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.50:144][759]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.50:154][759]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.41.50:158][759]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.50:178][759]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.50:181][759]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.50:209][759]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.50:234][759]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.50:263][759]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.50:354][764]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.50:388][766]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.41.50:405][767]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.50:505][773]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.41.50:621][780]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.41.50:638][781]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.41.50:668][782]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.41.50:671][782]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.50:700][782]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.50:722][782]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.50:724][782]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.50:754][782]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.50:807][784]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.50:840][786]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.41.50:857][787]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.51:057][799]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.41.51:107][802]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.41.51:123][803]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.41.51:173][806]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.41.51:309][814]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.41.51:343][816]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.41.51:357][817]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.41.51:390][819]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.41.51:508][826]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.41.51:523][827]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.41.51:540][828]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.41.51:573][830]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.41.51:825][845]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.41.51:975][854]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-09.41.52:008][856]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-09.41.52:024][857]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.41.52:225][869]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-09.41.52:237][869]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.52:253][869]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.41.52:268][869]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.52:298][869]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.41.52:328][869]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.41.52:345][869]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.20-09.41.52:459][876]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.41.52:493][878]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.41.52:524][880]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.41.52:643][887]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.41.52:759][894]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.41.52:776][895]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.41.52:795][896]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.41.52:875][901]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.41.52:993][908]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.41.52:993][908]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.41.53:008][909]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.41.53:092][914]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.41.53:157][918]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.41.53:175][919]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.41.53:191][920]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.41.53:459][936]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.41.53:543][941]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-09.41.53:620][945]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-09.41.53:635][946]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.41.53:782][954]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-09.41.53:888][960]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-09.41.54:034][968]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.41.54:068][970]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.41.54:726][989]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.05.20-09.41.54:726][989]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.05.20-09.41.54:726][989]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.20-09.41.54:726][989]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-09.42.06:190][448]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.06:204][448]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.06:204][448]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.42.06:219][448]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.06:230][448]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.06:230][448]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.06:241][448]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.06:269][448]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.06:393][454]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.06:424][454]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.06:444][454]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.06:449][454]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.06:466][454]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.06:477][454]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.06:479][454]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.06:498][454]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.06:504][454]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.06:534][454]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.06:691][463]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.06:707][464]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.06:740][466]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.06:774][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.06:801][467]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.06:803][467]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.06:835][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.06:866][467]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.06:903][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.06:932][467]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.06:934][467]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.06:952][467]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.06:959][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.06:987][467]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.06:991][467]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:010][467]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.07:028][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:059][468]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:083][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:111][468]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:129][468]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.07:136][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:165][468]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:194][468]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.07:197][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:228][468]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:246][468]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.07:252][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:283][468]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:298][468]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.07:308][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:339][468]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:363][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:397][468]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:431][468]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.07:435][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:465][468]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:481][468]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.07:536][472]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.07:566][473]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:582][473]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.07:596][473]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:628][473]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:658][473]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.07:722][476]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.07:786][480]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.07:786][480]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.07:803][481]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.07:955][489]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.07:987][489]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.08:013][489]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.08:016][489]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.08:031][489]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.08:031][489]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.08:042][489]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.08:044][489]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.08:069][489]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.08:100][489]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.08:254][498]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.08:270][499]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.08:287][500]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.08:336][503]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.08:504][513]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.08:520][514]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.08:534][514]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.08:550][514]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.08:561][514]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.08:563][514]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.08:588][514]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.08:618][514]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.08:649][514]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.08:683][514]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.08:683][514]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.08:714][515]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.08:714][515]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.08:742][517]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.08:957][530]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.08:957][530]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.08:973][531]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.09:005][533]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.09:157][542]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.09:157][542]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.09:175][543]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.09:185][543]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.09:188][543]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.09:217][543]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.09:242][543]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.09:271][543]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.09:289][543]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.09:295][543]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.09:322][543]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.09:325][543]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.09:340][543]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.09:349][543]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.09:379][543]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.09:543][552]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.09:543][552]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.09:591][555]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.09:656][559]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.09:793][567]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.09:823][568]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.09:823][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.09:854][568]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.09:872][568]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.09:872][568]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.42.09:878][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.09:907][568]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.09:932][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.09:961][568]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.09:986][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.10:004][568]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.10:004][568]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.10:018][568]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.10:043][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.10:073][568]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.10:098][568]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.10:098][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.10:129][568]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.10:147][568]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.10:152][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.10:180][568]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.10:212][569]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.10:224][570]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.10:322][576]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.10:442][583]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.10:474][585]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.10:540][589]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.10:559][590]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.10:674][597]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.10:689][598]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.10:722][600]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.10:738][601]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.10:840][607]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.10:858][608]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.42.10:858][608]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.42.10:904][611]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.42.11:103][622]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.42.11:107][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:137][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:161][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:191][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:219][622]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.11:222][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:253][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:274][622]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.11:277][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:293][622]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.11:306][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:331][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:361][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:386][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:417][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:442][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:458][622]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.11:474][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:504][622]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.11:504][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:520][622]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.11:533][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:558][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:574][622]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.11:589][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:618][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:650][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:667][622]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.11:673][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:701][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:720][622]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.11:726][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:743][622]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.11:756][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:775][622]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.11:781][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:810][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:835][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:865][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:890][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:924][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.11:946][622]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.11:950][622]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.11:953][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.11:985][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.12:005][622]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.12:016][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.12:046][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.12:062][622]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.12:068][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.12:101][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.12:126][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.12:157][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.12:176][622]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.12:187][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.12:217][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.12:239][622]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.12:242][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.12:270][622]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.12:288][622]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.12:348][626]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.12:442][631]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.12:459][631]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.12:474][631]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.12:498][631]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.12:530][631]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.12:548][631]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.12:572][633]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.12:586][634]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.12:687][640]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.12:821][648]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.12:837][649]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.12:837][649]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.12:904][653]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.13:005][659]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.13:022][660]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.13:054][662]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.13:086][664]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.13:154][668]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.42.13:172][668]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.13:189][668]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.42.13:203][668]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.13:224][668]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.13:234][668]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.13:262][668]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.13:420][677]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.13:453][679]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.13:519][683]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.13:570][686]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.13:686][693]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.13:719][695]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.13:739][696]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.13:784][699]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.13:903][706]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.13:916][707]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.13:917][707]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.13:949][708]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.13:965][708]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.13:979][708]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.14:003][708]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.14:033][708]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.14:050][708]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.14:063][709]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.14:073][710]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.14:169][715]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.14:199][715]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.14:230][715]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.14:262][715]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.14:281][715]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.14:293][716]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.14:320][718]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.14:354][720]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.14:453][725]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.14:483][725]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.14:526][727]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.14:556][729]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.14:587][730]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.14:591][730]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.14:608][730]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.14:621][730]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.14:710][734]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.14:740][734]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.14:764][734]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.14:782][734]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.14:794][734]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.14:797][734]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.14:826][735]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.14:836][736]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.15:019][747]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.15:019][747]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.15:069][750]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.15:137][754]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.15:237][760]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.15:247][760]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.15:247][760]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.15:276][760]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.15:276][760]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.15:304][761]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.15:415][768]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.15:430][769]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.15:510][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.15:526][773]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.15:542][773]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.15:572][773]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.15:572][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.15:602][773]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.15:626][773]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.15:626][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.15:642][773]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.15:656][773]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.15:680][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.15:710][773]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.15:729][773]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.15:735][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.15:767][773]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.15:788][773]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.15:797][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.15:827][773]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.15:844][773]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.15:844][773]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.42.15:851][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.15:880][773]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.15:905][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.15:934][773]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.16:021][778]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.16:088][782]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.16:103][783]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.16:136][785]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.16:321][796]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.16:337][797]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.16:337][797]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.16:370][799]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.16:519][808]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.16:536][809]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.16:536][809]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.16:553][810]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.16:620][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.16:650][813]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.16:668][813]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.16:674][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.16:690][813]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.16:700][813]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.16:703][813]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.16:948][827]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.16:963][828]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.17:014][831]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.17:014][831]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.17:230][844]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.17:278][847]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.17:295][848]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.17:328][850]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.17:375][852]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:406][852]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.17:463][855]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.17:469][855]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.17:469][855]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.17:472][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:502][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.17:518][855]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.17:526][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:556][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.17:581][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:611][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.17:636][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:666][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.17:688][855]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.17:698][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:714][855]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.17:727][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.17:752][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:769][855]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.17:784][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.17:803][855]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.17:814][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:846][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.17:869][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:901][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.17:920][855]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.17:925][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:956][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.17:981][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.17:996][855]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.17:996][855]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.18:009][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:034][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:061][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:090][855]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.18:094][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:128][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:158][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:189][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:207][855]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.18:213][855]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.18:213][855]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:229][855]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.18:242][855]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:295][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:325][857]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:357][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:386][857]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.18:388][857]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:420][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:437][857]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.18:448][857]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.18:450][857]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:489][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:504][857]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.18:518][857]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:602][861]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.18:605][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:637][861]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:655][861]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.18:664][861]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.18:667][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:696][861]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:715][861]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.18:721][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:751][861]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:775][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:806][861]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:830][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:862][861]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:881][861]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.18:893][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:911][861]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.18:926][861]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.18:945][861]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.18:955][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.18:983][861]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.19:008][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.19:024][861]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.19:037][861]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.19:128][866]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.19:177][869]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.19:259][874]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.19:276][875]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.19:412][883]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.19:460][886]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.19:495][888]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.19:510][889]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.19:626][896]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.19:644][897]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.19:675][899]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.19:693][900]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.19:777][905]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.42.19:809][907]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.42.19:842][909]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.42.20:010][918]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.20:039][918]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.42.20:041][918]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.20:064][918]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.20:080][918]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.20:087][918]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.20:121][918]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.20:152][918]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.20:186][919]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.20:216][921]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.20:418][933]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.20:483][937]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.20:518][939]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.20:533][940]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.20:682][949]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.20:733][952]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.20:749][953]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.20:765][954]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.20:867][960]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.20:915][963]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.20:931][964]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.42.20:947][965]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.42.21:064][972]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.42.21:199][980]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.42.21:349][989]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-09.42.21:384][991]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-09.42.21:499][998]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.42.21:530][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.21:562][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.21:590][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.21:593][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.21:624][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.21:624][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.21:648][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.21:678][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.21:702][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.21:732][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.21:757][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.21:790][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.21:790][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.21:814][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.21:845][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.21:869][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.21:886][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.21:900][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.21:918][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.21:924][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.21:941][999]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.21:956][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.21:987][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:018][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:043][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:074][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.22:074][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:098][999]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.22:098][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:129][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:147][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.22:153][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:185][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:204][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.22:215][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:247][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:272][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:302][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:319][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.22:325][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:353][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.22:356][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:380][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:410][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:434][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:450][999]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.22:463][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:488][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:505][999]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.22:518][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:542][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:559][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.22:574][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:597][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:613][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.22:626][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:648][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.22:651][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:681][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:709][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.22:712][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:742][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:767][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:783][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.22:798][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:817][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.22:828][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:858][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:882][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:913][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:937][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.22:954][999]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.22:968][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.22:992][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.23:008][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.23:019][999]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.23:023][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.23:046][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.23:076][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.23:095][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.23:098][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.23:122][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.23:154][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.23:157][999]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.23:188][999]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.23:229][  0]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.23:241][  1]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.23:391][ 10]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.23:424][ 12]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.23:491][ 16]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.23:575][ 21]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.23:640][ 25]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.23:673][ 27]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.23:740][ 31]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.23:774][ 33]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.23:823][ 36]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.23:861][ 38]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.23:941][ 43]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.42.23:941][ 43]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.42.24:007][ 47]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.42.24:209][ 59]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.42.24:324][ 66]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-09.42.24:407][ 71]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-09.42.24:456][ 74]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.42.24:607][ 83]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-09.42.24:675][ 87]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-09.42.24:768][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.24:799][ 92]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.24:837][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.24:853][ 92]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.24:864][ 92]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.24:867][ 92]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.24:891][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.24:921][ 92]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.24:940][ 92]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.24:994][ 95]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:024][ 95]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:040][ 95]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.25:050][ 95]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:079][ 95]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.25:081][ 95]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:100][ 95]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.25:106][ 95]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:135][ 95]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:160][ 95]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:191][ 95]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:216][ 95]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:232][ 95]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.25:246][ 95]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:270][ 95]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:297][ 95]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.25:300][ 95]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:317][ 95]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.25:324][ 95]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:353][ 95]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:375][ 95]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.25:384][ 95]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:416][ 95]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:435][ 95]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.25:440][ 95]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:472][ 95]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:508][ 96]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.25:517][ 96]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:548][ 96]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:572][ 96]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:602][ 96]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:622][ 96]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.25:662][ 99]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.25:683][ 99]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:713][ 99]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:732][ 99]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.25:738][ 99]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.25:767][ 99]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.25:795][100]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.25:904][107]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.25:939][109]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.26:039][115]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.26:105][119]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.26:156][122]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.26:173][123]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.26:255][128]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.26:337][133]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.26:354][134]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.26:371][135]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.26:437][139]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.26:483][141]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.26:500][141]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.26:500][141]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.26:513][141]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.26:532][141]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.26:536][141]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.26:559][141]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.26:594][141]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.26:625][141]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.26:752][148]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.26:837][153]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.26:871][155]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.26:953][160]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.27:120][170]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.27:132][171]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.27:133][171]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.27:202][175]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.27:321][182]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.27:336][183]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.27:368][185]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.27:385][186]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.27:500][193]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.42.27:519][194]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.42.27:536][195]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.42.27:786][210]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.42.27:818][212]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-09.42.27:969][221]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-09.42.27:986][222]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.42.28:085][228]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-09.42.28:184][233]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.28:213][233]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.42.28:215][233]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.28:240][233]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-09.42.28:271][233]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.28:289][233]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.20-09.42.28:334][236]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.28:434][242]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.28:449][243]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.28:601][252]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.28:668][256]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.28:688][257]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.28:703][258]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-09.42.28:852][267]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-09.42.28:884][269]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-09.42.28:902][270]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-09.42.28:917][271]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-09.42.29:052][279]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.29:068][280]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-09.42.29:068][280]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-09.42.29:100][282]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-09.42.29:320][295]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-09.42.29:463][303]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-09.42.29:516][306]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-09.42.29:551][308]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-09.42.29:730][318]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-09.42.29:767][320]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-09.42.29:985][332]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.29:985][332]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-09.42.30:646][352]MaterialEditorStats: Base pass shader: 100 instructions
+[2019.05.20-09.42.30:646][352]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2019.05.20-09.42.30:646][352]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.20-09.42.30:646][352]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-09.42.45:698][494]LogMaterialEditor: Saving and Compiling material HardStageDoorway
+[2019.05.20-09.42.46:314][494]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.46:360][494]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-09.42.46:360][494]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-09.42.46:360][494]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-09.42.46:360][494]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-09.42.46:378][494]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.46:400][494]LogMaterial: Display: Missing cached shader map for material HardStageDoorway, compiling. 
+[2019.05.20-09.42.46:453][494]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy HardStageDoorway, compiling. 
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-09.42.47:763][494]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-09.42.47:765][494]TextureStreamingBuild: Display: Compiling optional shaders took 1.320 seconds.
+[2019.05.20-09.42.50:264][494]LogSavePackage: Moving '../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Saved/HardStageDoorway07B26C904F86834D58D079888EE7EDEE.tmp' to '../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Content/__MyContent/Materials/HardStageDoorway.uasset'
+[2019.05.20-09.42.56:394][747]LogSlate: Window 'HardStageDoorway' being destroyed
+[2019.05.20-09.42.56:399][747]LogSlate: Window 'HardStageDoorway' being destroyed
+[2019.05.20-09.43.39:904][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-09.43.46:370][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-09.43.51:758][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-09.43.54:049][742]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/MySplinePlatform.MySplinePlatform
+[2019.05.20-09.43.54:638][742]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.05.20-09.43.55:556][743]LogSlate: Took 0.004449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.20-09.45.44:895][177]LogSlate: Window 'MySplinePlatform' being destroyed
+[2019.05.20-09.45.44:902][177]LogSlate: Window 'MySplinePlatform' being destroyed
+[2019.05.20-09.47.37:121][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-09.47.43:793][914]LogActorFactory: Actor Factory created Cube
+[2019.05.20-09.47.50:436][312]LogActorFactory: Actor Factory created Cube
+[2019.05.20-09.47.57:324][725]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.20-09.48.03:924][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-09.48.04:064][127]LogActorFactory: Actor Factory created Cube
+[2019.05.20-09.48.05:163][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-09.48.06:470][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-09.48.14:140][730]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2019.05.20-09.48.37:540][134]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.05.20-09.48.42:208][134]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-09.48.42:561][134]LogSavePackage: Moving '../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Saved/Level_18BE0F20D428A2035327772A67658507A.tmp' to '../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Content/__MyContent/Maps/Level_1.umap'
+[2019.05.20-09.48.42:597][134]LogFileHelpers: Saving map 'Level_1' took 0.372
+[2019.05.20-09.48.42:620][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Meshes/Cube" FILE="../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Content/__MyContent/Meshes/Cube.uasset" SILENT=true
+[2019.05.20-09.48.42:637][134]LogSavePackage: Moving '../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Saved/Cube30E156CA45E38A40CD7FDBAEEA274D49.tmp' to '../../../../../../Users/Thoma/Documents/GitHub/TomsPlatformer/UE4 Project/Content/__MyContent/Meshes/Cube.uasset'
+[2019.05.20-09.48.42:727][134]LogSlate: Window 'Plugins' being destroyed
+[2019.05.20-09.48.42:731][134]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.05.20-09.48.42:732][134]LogSlate: Window 'Damage - Unreal Editor' being destroyed
+[2019.05.20-09.48.42:915][135]Cmd: QUIT_EDITOR
+[2019.05.20-09.48.42:941][135]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.20-09.48.42:960][135]LogExit: Preparing to exit.
+[2019.05.20-09.48.43:873][135]LogExit: Editor shut down
+[2019.05.20-09.48.43:874][135]LogExit: Transaction tracking system shut down
+[2019.05.20-09.48.44:213][135]LogExit: Object subsystem successfully closed.
+[2019.05.20-09.48.44:230][135]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.20-09.48.44:231][135]LogD3D11RHI: Shutdown
+[2019.05.20-09.48.44:231][135]LogD3D11RHI: CleanupD3DDevice
+[2019.05.20-09.48.44:233][135]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.20-09.48.44:265][135]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2019.05.20-09.48.44:265][135]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.05.20-09.48.44:265][135]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.05.20-09.48.44:265][135]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.05.20-09.48.44:265][135]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.05.20-09.48.44:265][135]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.05.20-09.48.44:265][135]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.05.20-09.48.44:265][135]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.05.20-09.48.44:266][135]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.05.20-09.48.44:266][135]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.05.20-09.48.44:266][135]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.05.20-09.48.44:267][135]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.05.20-09.48.44:268][135]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.05.20-09.48.44:268][135]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.05.20-09.48.44:269][135]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.05.20-09.48.44:269][135]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.05.20-09.48.44:269][135]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.05.20-09.48.44:270][135]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.05.20-09.48.44:270][135]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.05.20-09.48.44:270][135]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.05.20-09.48.44:270][135]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.05.20-09.48.44:270][135]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.05.20-09.48.44:605][135]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.05.20-09.48.44:605][135]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.05.20-09.48.44:605][135]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.05.20-09.48.44:605][135]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.05.20-09.48.44:605][135]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.05.20-09.48.44:606][135]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.05.20-09.48.44:606][135]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.05.20-09.48.44:606][135]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.05.20-09.48.44:607][135]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.05.20-09.48.44:608][135]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.05.20-09.48.44:608][135]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.05.20-09.48.44:662][135]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.05.20-09.48.44:662][135]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.05.20-09.48.44:662][135]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.05.20-09.48.44:663][135]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.05.20-09.48.44:663][135]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.05.20-09.48.44:663][135]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.05.20-09.48.44:664][135]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.05.20-09.48.44:664][135]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.05.20-09.48.44:664][135]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.05.20-09.48.44:664][135]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.05.20-09.48.44:669][135]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.05.20-09.48.44:669][135]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.05.20-09.48.44:669][135]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.05.20-09.48.44:669][135]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.05.20-09.48.44:669][135]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.05.20-09.48.44:669][135]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.05.20-09.48.44:669][135]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.05.20-09.48.44:669][135]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.05.20-09.48.44:669][135]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.05.20-09.48.44:670][135]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.20-09.48.44:911][135]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.20-09.48.44:913][135]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.05.20-09.48.44:913][135]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.05.20-09.48.44:913][135]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.05.20-09.48.44:913][135]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.05.20-09.48.44:917][135]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.20-09.48.44:918][135]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.05.20-09.48.44:919][135]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.05.20-09.48.44:920][135]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.05.20-09.48.44:920][135]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.05.20-09.48.44:920][135]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.05.20-09.48.44:920][135]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.05.20-09.48.44:920][135]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.20-09.48.44:920][135]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.20-09.48.45:021][135]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.20-09.48.45:122][135]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.20-09.48.45:122][135]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.20-09.48.45:122][135]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.20-09.48.45:122][135]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.20-09.48.45:122][135]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.20-09.48.45:122][135]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.20-09.48.45:123][135]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.20-09.48.45:123][135]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.20-09.48.45:123][135]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.20-09.48.45:123][135]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.20-09.48.45:123][135]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.20-09.48.45:124][135]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.20-09.48.45:125][135]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.20-09.48.45:125][135]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.20-09.48.45:125][135]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.20-09.48.45:125][135]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.20-09.48.45:125][135]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.20-09.48.45:125][135]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.05.20-09.48.45:127][135]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.05.20-09.48.45:133][135]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.05.20-09.48.45:133][135]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.05.20-09.48.45:133][135]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.05.20-09.48.45:134][135]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.05.20-09.48.45:134][135]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.05.20-09.48.45:134][135]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.05.20-09.48.45:134][135]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.05.20-09.48.45:134][135]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.05.20-09.48.45:134][135]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.05.20-09.48.45:134][135]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.05.20-09.48.45:134][135]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.05.20-09.48.45:135][135]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.05.20-09.48.45:135][135]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.05.20-09.48.45:135][135]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.05.20-09.48.45:135][135]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.05.20-09.48.45:135][135]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.05.20-09.48.45:136][135]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.05.20-09.48.45:136][135]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.05.20-09.48.45:136][135]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.05.20-09.48.45:136][135]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.05.20-09.48.45:139][135]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.05.20-09.48.45:139][135]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.05.20-09.48.45:139][135]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.05.20-09.48.45:139][135]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.05.20-09.48.45:139][135]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.05.20-09.48.45:139][135]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.05.20-09.48.45:139][135]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.05.20-09.48.45:139][135]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.05.20-09.48.45:139][135]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.05.20-09.48.45:140][135]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.05.20-09.48.45:140][135]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.05.20-09.48.45:140][135]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.05.20-09.48.45:140][135]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.05.20-09.48.45:141][135]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.05.20-09.48.45:141][135]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.05.20-09.48.45:141][135]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.05.20-09.48.45:141][135]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.05.20-09.48.45:141][135]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.05.20-09.48.45:188][135]LogDerivedDataCache: Shutdown
+[2019.05.20-09.48.45:188][135]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.05.20-09.48.45:188][135]LogXGEController: Cleaning working directory: C:/Users/Thoma/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.20-09.48.45:188][135]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.05.20-09.48.45:188][135]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.05.20-09.48.45:188][135]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.05.20-09.48.45:188][135]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.05.20-09.48.45:189][135]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.05.20-09.48.45:190][135]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.05.20-09.48.45:190][135]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.05.20-09.48.45:190][135]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.05.20-09.48.45:191][135]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.05.20-09.48.45:191][135]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.05.20-09.48.45:192][135]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.05.20-09.48.45:192][135]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.05.20-09.48.45:201][135]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.05.20-09.48.45:202][135]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.05.20-09.48.45:203][135]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.05.20-09.48.45:204][135]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.05.20-09.48.45:236][135]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.05.20-09.48.45:236][135]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.20-09.48.45:236][135]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF1F694F2-4C51-093B-0B8E-F18EBC1EC61F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=ecbc42004ac69fd181f32aa6a5c949d4%7C1f78dbd1ce424178af7223f7773b062f%7Caa16cf1c-c2ea-4c3b-abe3-fd69bde5bc6c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.20-09.48.45:258][135]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.05.20-09.48.45:260][135]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.05.20-09.48.45:260][135]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.05.20-09.48.45:260][135]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.05.20-09.48.45:260][135]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.05.20-09.48.45:261][135]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.20-09.48.45:261][135]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.20-09.48.45:262][135]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.20-09.48.45:262][135]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.20-09.48.45:262][135]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.20-09.48.45:262][135]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.20-09.48.45:262][135]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.20-09.48.45:262][135]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.20-09.48.45:262][135]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.20-09.48.45:262][135]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.20-09.48.45:262][135]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.20-09.48.45:262][135]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.20-09.48.45:269][135]LogExit: Exiting.
+[2019.05.20-09.48.45:272][135]Log file closed, 05/20/19 19:48:45
